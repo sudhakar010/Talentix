@@ -1,0 +1,5 @@
+/workspace/src/main/java/com/talentix/TalentixApplication.java
+/workspace/src/main/java/com/talentix/auth/AuthController.java
+/workspace/src/main/java/com/talentix/config/SecurityConfig.java
+/workspace/src/main/java/com/talentix/jobs/JobController.java
+/workspace/src/main/java/com/talentix/web/HomeController.java
