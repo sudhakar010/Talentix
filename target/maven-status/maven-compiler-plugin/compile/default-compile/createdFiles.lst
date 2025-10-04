@@ -1,0 +1,5 @@
+com/talentix/auth/AuthController.class
+com/talentix/TalentixApplication.class
+com/talentix/web/HomeController.class
+com/talentix/config/SecurityConfig.class
+com/talentix/jobs/JobController.class
